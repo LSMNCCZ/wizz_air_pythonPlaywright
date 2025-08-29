@@ -1,0 +1,17 @@
+test1_run1 - INFO - *** Accepted necessary cookies ***
+test1_run1 - INFO - *** Selected one-way flight option ***
+test1_run1 - INFO - *** Entered origin: Vienna ***
+test1_run1 - INFO - *** Entered destination: Nice ***
+test1_run1 - INFO - *** Clicked departure date input box ***
+test1_run1 - INFO - *** Selected date: Monday 15 September 2025 ***
+test1_run1 - INFO - *** Getting Current Adults Count ***
+test1_run1 - INFO - *** Current Adults Count: 1 ***
+test1_run1 - INFO - *** Switching to new Page ***
+test1_run1 - INFO - *** Clicked Start Booking button ***
+test1_run1 - INFO - === New page opened successfully. ===
+test1_run1 - INFO - === New page finished Loading ===
+test1_run1 - INFO - *** Closing previous page ***
+test1_run1 - INFO - === Previous Page Closed ===
+test1_run1 - INFO - *** Switched to new ShowFlights page*** 
+test1_run1 - INFO - === Flight Outbound is visible on the new tab. ===
+test1_run1 - INFO - === Page URL is correct after redirection. ===

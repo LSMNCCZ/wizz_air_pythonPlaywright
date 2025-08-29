@@ -1,0 +1,12 @@
+test2_run1 - INFO - *** Accepted necessary cookies ***
+test2_run1 - INFO - *** Entered origin: Vienna ***
+test2_run1 - INFO - *** Entered destination: Nice ***
+test2_run1 - INFO - *** Clicked departure date input box ***
+test2_run1 - INFO - *** Selected date: Monday 15 September 2025 ***
+test2_run1 - INFO - *** Selected date: Saturday 18 October 2025 ***
+test2_run1 - INFO - *** Getting Current Adults Count ***
+test2_run1 - INFO - *** Current Adults Count: 1 ***
+test2_run1 - INFO - *** Clicked Start Booking button ***
+test2_run1 - INFO - === Outbound Flight header is visible ===
+test2_run1 - INFO - === Return Flight header is visible. ===
+test2_run1 - INFO - === Redirected Page's URL is correct. ===

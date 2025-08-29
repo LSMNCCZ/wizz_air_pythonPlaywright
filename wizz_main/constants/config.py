@@ -1,0 +1,1 @@
+BASE_URL = "https://www.wizzair.com/en-gb"

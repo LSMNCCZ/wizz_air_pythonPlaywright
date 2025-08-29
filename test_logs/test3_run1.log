@@ -1,0 +1,10 @@
+test3_run1 - INFO - *** Accepted necessary cookies ***
+test3_run1 - INFO - *** Entered origin: Vienna ***
+test3_run1 - INFO - *** Entered destination: Nice ***
+test3_run1 - INFO - *** Clicked departure date input box ***
+test3_run1 - INFO - *** Selected date: Monday 15 September 2025 ***
+test3_run1 - INFO - *** No date provided, pressed Escape ***
+test3_run1 - INFO - *** Getting Current Adults Count ***
+test3_run1 - INFO - *** Current Adults Count: 1 ***
+test3_run1 - INFO - *** Clicked Start Booking button ***
+test3_run1 - INFO - === Correct Error Message: Please select return date ===

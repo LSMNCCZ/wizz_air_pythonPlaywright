@@ -1,0 +1,13 @@
+test4_run1 - INFO - *** Accepted necessary cookies ***
+test4_run1 - INFO - *** Selected one-way flight option ***
+test4_run1 - INFO - *** Entered origin: Vienna ***
+test4_run1 - INFO - *** Entered destination: Nice ***
+test4_run1 - INFO - *** Clicked departure date input box ***
+test4_run1 - INFO - *** Selected date: Monday 15 September 2025 ***
+test4_run1 - INFO - *** Getting Current Adults Count ***
+test4_run1 - INFO - *** Current Adults Count: 1 ***
+test4_run1 - INFO - *** Getting Current Infants Count ***
+test4_run1 - INFO - *** Current Infants Count: 0 ***
+test4_run1 - INFO - *** Clicked Increase Button ***
+test4_run1 - INFO - === Increased Infants count by 1, Current Count: 1 ===
+test4_run1 - INFO - === Infant Passenger increase button is correctly disabled. ===
